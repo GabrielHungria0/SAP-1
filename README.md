@@ -26,6 +26,21 @@ Somador
 
 ![image](https://github.com/user-attachments/assets/003eb72c-c59d-40cb-830e-630150c02f37)
 
+Multiplexador
+
+![image](https://github.com/user-attachments/assets/7f6cb2b9-c02b-417f-99cf-0d0ff147b98d)
+
+Registrador 4 bits
+
+![image](https://github.com/user-attachments/assets/aa56d599-329f-4cf5-934f-f3b18e753b91)
+
+Registrador 8 bits
+
+![image](https://github.com/user-attachments/assets/a82c52e3-9e3d-4d65-93a6-2626f7c467c3)
+
+
+
+
 
 
 
